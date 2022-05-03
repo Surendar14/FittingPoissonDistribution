@@ -56,10 +56,11 @@ if cal_chi2<tab_chi2:
 else:
     print("The given data cannot be fitted in Poisson distribution at 1% LOS")
 ~~~
-Output :
+# Output :
+
 ![166331605-c8baad6f-1827-4125-9221-66e4b63672a8](https://user-images.githubusercontent.com/75235759/166441179-940e305a-cef2-4b92-95e4-ac85975a4fde.jpg)
 
 
-Results :
+# Results :
 Thus, fitting poisson distribution for the given frequencey distribution is verified.
  
